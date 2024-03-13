@@ -1,0 +1,6 @@
+@TaskList_Final__HostAddress = http://localhost:5012
+
+GET {{TaskList_Final__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
