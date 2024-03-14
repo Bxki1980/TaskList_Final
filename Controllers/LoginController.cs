@@ -23,9 +23,9 @@ namespace TaskList_Final_.Controllers
 
 
         [HttpPost("Login")]
-        public IActionResult Login([FromBody] LoginModel model)
+        public IActionResult Login(LoginModel model)
         {
-            if (!_LoginRepository.LoginValidation(model.UserName, model.Password))
+            if (_LoginRepository.Authenticate(model.UserName, model.Password) == null)
             {
                 return Unauthorized("Invalid username or password.");
             }
