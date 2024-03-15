@@ -8,6 +8,7 @@ namespace TaskList_Final_.Repositories
         LoginModel Authenticate(String Username, string password);
 
         //to create new account
+        LoginModel CreateAcc(String FirstName, String LastName, String UserName, String Password);
     }
     
 }

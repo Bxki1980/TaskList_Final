@@ -6,7 +6,7 @@ using TaskList_Final_.Data;
 using TaskList_Final_.Models;
 using TaskList_Final_.Repositories;
 
-public class LoginRepository : ILoginRepository 
+public class LoginRepository : ILoginRepository
 {
     private readonly LoginContex _loginContext;
 
@@ -28,11 +28,39 @@ public class LoginRepository : ILoginRepository
             return null;
 
         // check if password is correct
-        if ( user.Password != password)
+        if (user.Password != password)
             return null;
 
         // authentication successful
         return user;
     }
 
+    public LoginModel CreateAcc(String FirstName, String LastName, String UserName, String Password)
+    {
+        var user = new LoginModel();
+
+        // validation
+        if (string.IsNullOrWhiteSpace(Password))
+            throw new("Password is required");
+
+        if (_loginContext.LoginModel.Any(x => x.UserName == user.UserName))
+            throw new("Username \"" + user.UserName + "\" is already taken");
+
+        if (string.IsNullOrWhiteSpace(FirstName))
+            throw new("FirstName is mandetory");
+
+        if (string.IsNullOrWhiteSpace(LastName))
+            throw new("LastName is mandetory");
+
+        user.FirstName = FirstName;
+        user.LastName = LastName;
+        user.UserName = UserName;
+        user.Password = Password;
+
+
+        _loginContext.LoginModel.Add(user);
+        _loginContext.SaveChanges();
+
+        return user;
+    }
 }

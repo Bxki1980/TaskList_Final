@@ -134,3 +134,14 @@ C:\Users\moham\OneDrive\Desktop\Projects\C#\TaskList(Final)\obj\Debug\net8.0\ref
 C:\Users\moham\OneDrive\Desktop\Projects\C#\TaskList(Final)\obj\Debug\net8.0\TaskList(Final).pdb
 C:\Users\moham\OneDrive\Desktop\Projects\C#\TaskList(Final)\obj\Debug\net8.0\TaskList(Final).genruntimeconfig.cache
 C:\Users\moham\OneDrive\Desktop\Projects\C#\TaskList(Final)\obj\Debug\net8.0\ref\TaskList(Final).dll
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).sourcelink.json
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).dll
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\refint\TaskList(Final).dll
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).pdb
