@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Net;
 using TaskList_Final_.Data;
@@ -23,7 +24,8 @@ namespace TaskList_Final_.Controllers
         }
 
 
-        [HttpGet("Login")]
+        [AllowAnonymous]
+        [HttpPost("authenticate")]
         public IActionResult Login(LoginModel model)
         {
             if (_LoginRepository.Authenticate(model.UserName, model.Password) == null)
