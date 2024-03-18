@@ -8,7 +8,7 @@ using TaskList_Final_.Repositories;
 
 namespace TaskList_Final_.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
 
 
@@ -26,7 +26,7 @@ namespace TaskList_Final_.Controllers
 
         [AllowAnonymous]
         [HttpPost("authenticate")]
-        public IActionResult Login(LoginModel model)
+        public IActionResult Login(AuthenticateModel model)
         {
             if (_LoginRepository.Authenticate(model.UserName, model.Password) == null)
             {
@@ -38,8 +38,8 @@ namespace TaskList_Final_.Controllers
             return Ok("Login successful!");
         }
 
-        [HttpPost("Create new account")]
-        public IActionResult CreateAcc(LoginModel User)
+        [HttpPost("CreatNewAccount")]
+        public IActionResult CreateAcc(UserModel User)
         {
             if (_LoginRepository.CreateAcc == null)
             {

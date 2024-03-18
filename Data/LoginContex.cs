@@ -10,6 +10,9 @@ namespace TaskList_Final_.Data
         {
 
         }
-        public DbSet<LoginModel> LoginModel { get; set; }
+        public DbSet<AuthenticateModel> AuthenticateModel { get; set; }
+        public DbSet<UserModel> UserModel { get; set; }
+        
+
     }
 }

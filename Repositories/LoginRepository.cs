@@ -1,8 +1,4 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Text.RegularExpressions;
-using TaskList_Final_.Data;
+﻿using TaskList_Final_.Data;
 using TaskList_Final_.Models;
 using TaskList_Final_.Repositories;
 
@@ -15,35 +11,42 @@ public class LoginRepository : ILoginRepository
         _loginContext = context;
     }
 
-
-    public LoginModel Authenticate(string username, string password)
+    // It has problems !!!
+    public bool Authenticate(string Username, string Password)
     {
-        if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
-            return null;
+        // Check if username or password is null or empty
+        if (string.IsNullOrEmpty(Username) || string.IsNullOrEmpty(Password))
+        {
+            return false;
+        }
 
-        var user = _loginContext.LoginModel.SingleOrDefault(x => x.UserName == username);
-
-        // check if username exists
+        // Check if user exists with the provided username
+        var user = _loginContext.AuthenticateModel.SingleOrDefault(c => c.UserName == Username);
         if (user == null)
-            return null;
+        {
+            return false;
+        }
 
-        // check if password is correct
-        if (user.Password != password)
-            return null;
+        // Check if password is correct for the user
+        if (user.Password != Password)
+        {
+            return false;
+        }
 
-        // authentication successful
-        return user;
+        // Authentication successful
+        return true;
     }
 
-    public LoginModel CreateAcc(String FirstName, String LastName, String UserName, String Password)
+
+    public UserModel CreateAcc(String FirstName, String LastName, String UserName, String Password)
     {
-        var user = new LoginModel();
+        var user = new UserModel();
 
         // validation
         if (string.IsNullOrWhiteSpace(Password))
             throw new("Password is required");
 
-        if (_loginContext.LoginModel.Any(x => x.UserName == user.UserName))
+        if (_loginContext.AuthenticateModel.Any(x => x.UserName == user.UserName))
             throw new("Username \"" + user.UserName + "\" is already taken");
 
         if (string.IsNullOrWhiteSpace(FirstName))
@@ -58,7 +61,7 @@ public class LoginRepository : ILoginRepository
         user.Password = Password;
 
 
-        _loginContext.LoginModel.Add(user);
+        _loginContext.UserModel.Add(user);
         _loginContext.SaveChanges();
 
         return user;
