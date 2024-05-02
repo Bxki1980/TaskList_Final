@@ -38,18 +38,41 @@ namespace TaskList_Final_.Controllers
             return Ok("Login successful!");
         }
 
+
+        // Create new account for the user
         [HttpPost("CreatNewAccount")]
-        public IActionResult CreateAcc(UserModel User)
+        public IActionResult CreateAcc(UserModel userModel)
         {
-            if (_LoginRepository.CreateAcc == null)
+            try
             {
-                return BadRequest("Error !!!");
+                
+                _LoginRepository.CreateAcc(userModel.FirstName, userModel.LastName, userModel.UserName, userModel.Password);
+                 _LoginContext.Add(userModel);
+
+                return Ok(userModel);
             }
-
-            // Add your logic for successful login here
-
-            return Ok(User);
+            catch (DbUpdateException ex)
+            {
+                // Log the exception
+                return BadRequest("Failed to create account. Please try again later.");
+            }
         }
 
+        //Read
+        [HttpGet("GetAll")]
+        public async Task<IActionResult> GetAll()
+        {
+            try
+            {
+                var allUserModels = await _LoginRepository.getAll();
+                return Ok(allUserModels);
+            }
+            catch (Exception ex)
+            {
+                
+                return StatusCode(500, "An error occurred while processing your request.");
+            }
+        }
     }
 }
+

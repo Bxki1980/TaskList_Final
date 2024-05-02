@@ -268,6 +268,6 @@ C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\staticweb
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskList(Final).props
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\scopedcss\bundle\TaskList(Final).styles.css
-C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).csproj.CopyComplete
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList(Final).genruntimeconfig.cache
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\ref\TaskList(Final).dll
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\obj\Debug\net8.0\TaskList.F3A5DD74.Up2Date
