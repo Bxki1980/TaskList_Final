@@ -4469,9 +4469,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\TaskList(Final).csproj",
-      "projectName": "TaskList(Final)",
-      "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\TaskList(Final).csproj",
+      "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Login.csproj",
+      "projectName": "Login",
+      "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Login.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\obj\\",
       "projectStyle": "PackageReference",

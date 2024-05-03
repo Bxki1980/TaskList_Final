@@ -73,6 +73,41 @@ namespace TaskList_Final_.Controllers
                 return StatusCode(500, "An error occurred while processing your request.");
             }
         }
+
+        //Delete
+        [HttpDelete("Delete{ID}")]
+        public IActionResult DeleteTask(int ID) 
+        {
+            try 
+            {
+                _LoginRepository.DeleteAccount(ID);
+                return Ok();
+            }
+            catch (Exception ex) 
+            {
+                return StatusCode(500, "An error occurred while processing your request.");
+            }
+        }
+
+
+        //Update 
+        [HttpPut("Update/{ID}")]
+        public IActionResult UpdateUser(UserModel userModel, int ID)
+        {
+            try
+            {
+                _LoginRepository.UpdateUser(ID, userModel.FirstName, userModel.LastName, userModel.UserName, userModel.Password);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                // Log the exception for debugging purposes
+                Console.WriteLine($"An error occurred: {ex}");
+
+                // Return an appropriate error response
+                return StatusCode(500, "An error occurred while processing your request.");
+            }
+        }
     }
 }
 

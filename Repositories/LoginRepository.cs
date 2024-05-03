@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
+using Microsoft.IdentityModel.Tokens;
 using TaskList_Final_.Data;
 using TaskList_Final_.Models;
 using TaskList_Final_.Repositories;
@@ -68,6 +70,17 @@ public class LoginRepository : ILoginRepository
         return user;
     }
 
+    public async void DeleteAccount(int ID)
+    {
+        var user = await _loginContext.UserModel.FindAsync(ID);
+        if (user != null) 
+        {
+            _loginContext.UserModel.Remove(user);
+            _loginContext.SaveChanges();
+        }
+        
+    }
+
     public async Task<IEnumerable<UserModel>> getAll()
     {
         try
@@ -79,4 +92,20 @@ public class LoginRepository : ILoginRepository
             throw;
         }
     }
+
+    public async Task UpdateUser(int ID, string FirstName, string LastName, string UserName, string Password)
+    {
+        var user = await _loginContext.UserModel.FindAsync(ID);
+        if (user != null)
+        {
+            user.FirstName = FirstName;
+            user.LastName = LastName;
+            user.UserName = UserName;
+            user.Password = Password;
+
+            _loginContext.UserModel.Update(user);
+            await _loginContext.SaveChangesAsync();
+        }
+    }
+
 }
