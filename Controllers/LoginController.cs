@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Net;
-using TaskList_Final_.Data;
 using TaskList_Final_.Models;
 using TaskList_Final_.Repositories;
 
@@ -10,104 +8,115 @@ namespace TaskList_Final_.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-
-
     public class LoginController : ControllerBase
     {
-        private readonly LoginContex _LoginContext;
-        private readonly ILoginRepository _LoginRepository;
+        private readonly ILoginRepository _loginRepository;
 
-        public LoginController(LoginContex context, ILoginRepository loginRepository)
+        public LoginController(ILoginRepository loginRepository)
         {
-            _LoginContext = context;
-            _LoginRepository = loginRepository;
+            _loginRepository = loginRepository;
         }
 
-
+        // POST: api/Login/authenticate
         [AllowAnonymous]
         [HttpPost("authenticate")]
-        public IActionResult Login(AuthenticateModel model)
+        public async Task<IActionResult> Login([FromBody] AuthenticateModel user)
         {
-            if (_LoginRepository.Authenticate(model.UserName, model.Password) == null)
+            if (user == null || string.IsNullOrEmpty(user.UserName) || string.IsNullOrEmpty(user.Password))
+            {
+                return BadRequest("Invalid client request");
+            }
+
+            var token = await _loginRepository.AuthenticateAsync(user.UserName, user.Password);
+            if (token == null)
             {
                 return Unauthorized("Invalid username or password.");
             }
 
-            // Add your logic for successful login here
-
-            return Ok("Login successful!");
+            return Ok(new { Token = token });
         }
 
-
-        // Create new account for the user
-        [HttpPost("CreatNewAccount")]
-        public IActionResult CreateAcc(UserModel userModel)
+        // POST: api/Login/CreateNewAccount
+        [AllowAnonymous]
+        [HttpPost("CreateNewAccount")]
+        public async Task<IActionResult> CreateAccount([FromBody] UserModel user)
         {
             try
             {
-                
-                _LoginRepository.CreateAcc(userModel.FirstName, userModel.LastName, userModel.UserName, userModel.Password);
-                 _LoginContext.Add(userModel);
-
-                return Ok(userModel);
+                await _loginRepository.CreateAccountAsync(user);
+                return Ok("Account created successfully.");
             }
-            catch (DbUpdateException ex)
+            catch (ArgumentException ex)
             {
-                // Log the exception
+                return BadRequest(ex.Message);
+            }
+            catch (DbUpdateException)
+            {
                 return BadRequest("Failed to create account. Please try again later.");
             }
         }
 
-        //Read
-        [HttpGet("GetAll")]
-        public async Task<IActionResult> GetAll()
+        // GET: api/Login/GetAllUsers
+        [Authorize]
+        [HttpGet("GetAllUsers")]
+        public async Task<IActionResult> GetAllUsers()
         {
             try
             {
-                var allUserModels = await _LoginRepository.getAll();
-                return Ok(allUserModels);
+                var allUsers = await _loginRepository.GetAllUsersAsync();
+                return Ok(allUsers);
             }
-            catch (Exception ex)
-            {
-                
-                return StatusCode(500, "An error occurred while processing your request.");
-            }
-        }
-
-        //Delete
-        [HttpDelete("Delete{ID}")]
-        public IActionResult DeleteTask(int ID) 
-        {
-            try 
-            {
-                _LoginRepository.DeleteAccount(ID);
-                return Ok();
-            }
-            catch (Exception ex) 
+            catch (Exception)
             {
                 return StatusCode(500, "An error occurred while processing your request.");
             }
         }
 
-
-        //Update 
-        [HttpPut("Update/{ID}")]
-        public IActionResult UpdateUser(UserModel userModel, int ID)
+        // DELETE: api/Login/DeleteUser/5
+        [Authorize]
+        [HttpDelete("DeleteUser/{id:int}")]
+        public async Task<IActionResult> DeleteUser(int id)
         {
             try
             {
-                _LoginRepository.UpdateUser(ID, userModel.FirstName, userModel.LastName, userModel.UserName, userModel.Password);
-                return Ok();
+                var result = await _loginRepository.DeleteAccountAsync(id);
+                if (result)
+                {
+                    return Ok("User deleted successfully.");
+                }
+                else
+                {
+                    return NotFound("User not found.");
+                }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                // Log the exception for debugging purposes
-                Console.WriteLine($"An error occurred: {ex}");
+                return BadRequest("An error occurred while deleting the user.");
+            }
+        }
 
-                // Return an appropriate error response
+        // PUT: api/Login/UpdateUser/5
+        [Authorize]
+        [HttpPut("UpdateUser/{id:int}")]
+        public async Task<IActionResult> UpdateUser(int id, [FromBody] UserModel user)
+        {
+            try
+            {
+                var result = await _loginRepository.UpdateUserAsync(id, user);
+                if (result)
+                {
+                    return Ok("User updated successfully.");
+                }
+                else
+                {
+                    return NotFound("User not found.");
+                }
+            }
+            catch (Exception)
+            {
                 return StatusCode(500, "An error occurred while processing your request.");
             }
         }
     }
 }
-
+ 

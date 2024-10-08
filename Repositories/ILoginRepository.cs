@@ -1,25 +1,22 @@
-﻿        
-using TaskList_Final_.Models;
+﻿using TaskList_Final_.Models;
 
 namespace TaskList_Final_.Repositories
 {
     public interface ILoginRepository
     {
-        //to check the username and password
-        bool Authenticate(String UserName, string password);
+        // Authenticate user and return JWT token
+        Task<string> AuthenticateAsync(string userName, string password);
 
-        //to create new account
-        UserModel CreateAcc(String FirstName, String LastName, String UserName, String Password);
+        // Create new account
+        Task CreateAccountAsync(UserModel user);
 
-        //Read
-        Task<IEnumerable<UserModel>> getAll();
+        // Get all users
+        Task<IEnumerable<UserModel>> GetAllUsersAsync();
 
-        //Delete
-        void DeleteAccount(int ID);
+        // Delete user account
+        Task<bool> DeleteAccountAsync(int id);
 
-        //Update
-        Task UpdateUser(int ID , String FirstName, String LastName, String UserName, String Password);
-
+        // Update user
+        Task<bool> UpdateUserAsync(int id, UserModel user);
     }
-
 }

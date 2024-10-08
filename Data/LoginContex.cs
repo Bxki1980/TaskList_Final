@@ -1,18 +1,16 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+﻿// Data/LoginContext.cs
+
+using Microsoft.EntityFrameworkCore;
 using TaskList_Final_.Models;
 
 namespace TaskList_Final_.Data
 {
-    public class LoginContex : DbContext
+    public class LoginContext : DbContext
     {
-        public LoginContex(DbContextOptions<LoginContex> options) : base(options)
+        public LoginContext(DbContextOptions<LoginContext> options) : base(options)
         {
-
         }
-        public DbSet<AuthenticateModel> AuthenticateModel { get; set; }
-        public DbSet<UserModel> UserModel { get; set; }
-        
 
+        public DbSet<UserModel> Users { get; set; }
     }
 }

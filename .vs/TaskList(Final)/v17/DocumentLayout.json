@@ -6,58 +6,34 @@
       "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist_final\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist_final\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist_final\\repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\data\\logincontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:data\\logincontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,20 +44,30 @@
       "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:models\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\data\\logincontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:data\\logincontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\models\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:models\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\data\\logincontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:data\\logincontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\tasklist(final).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:tasklist(final).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\tasklist\\tasklist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|TaskList(Final).csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Migrations\\20241002205411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA9D7-0013-4CC4-B05D-D92F85BCAB4B}|Login.csproj|solutionrelative:Migrations\\20241002205411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373B523C-4CF2-4E48-AB17-BBCC1BA1EE1B}|..\\TaskList\\TaskList.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Migrations\\20241002235731_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,85 +77,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\TaskList\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Data\\DataContext.cs",
+              "RelativeToolTip": "..\\TaskList\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:22:27.493Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:38:22.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\LoginRepository.cs",
-              "RelativeToolTip": "Repositories\\LoginRepository.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAowG0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:32:55.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "..\\TaskList\\Repositories\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\TaskRepository.cs",
-              "RelativeToolTip": "..\\TaskList\\Repositories\\TaskRepository.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAkwAcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:24:51.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "..\\TaskList\\Repositories\\ITaskRepository.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\ITaskRepository.cs",
-              "RelativeToolTip": "..\\TaskList\\Repositories\\ITaskRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:24:22.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tasks.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Models\\Tasks.cs",
-              "RelativeDocumentMoniker": "..\\TaskList\\Models\\Tasks.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Models\\Tasks.cs",
-              "RelativeToolTip": "..\\TaskList\\Models\\Tasks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:32:10.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Program.cs",
               "RelativeDocumentMoniker": "..\\TaskList\\Program.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Program.cs",
               "RelativeToolTip": "..\\TaskList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:20:07.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T22:17:24.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TaskList\\appsettings.json",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\appsettings.json",
+              "RelativeToolTip": "..\\TaskList\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T15:09:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241002235731_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Migrations\\20241002235731_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\TaskList\\Migrations\\20241002235731_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Migrations\\20241002235731_InitialCreate.cs",
+              "RelativeToolTip": "..\\TaskList\\Migrations\\20241002235731_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:57:31.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskList\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "..\\TaskList\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:52:02.254Z"
             },
             {
               "$type": "Document",
@@ -179,27 +147,158 @@
               "RelativeDocumentMoniker": "..\\TaskList\\Controllers\\TaskController.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Controllers\\TaskController.cs",
               "RelativeToolTip": "..\\TaskList\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAIwCMAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:52:09.685Z",
+              "WhenOpened": "2024-10-02T23:48:05.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "..\\TaskList\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Data\\DataContext.cs",
-              "RelativeToolTip": "..\\TaskList\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskList\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "..\\TaskList\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T01:43:41.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T23:47:44.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
+              "Title": "TaskList.csproj",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\TaskList.csproj",
+              "RelativeDocumentMoniker": "..\\TaskList\\TaskList.csproj",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\TaskList.csproj",
+              "RelativeToolTip": "..\\TaskList\\TaskList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T23:42:54.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "..\\TaskList\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\Models\\Tasks.cs",
+              "RelativeToolTip": "..\\TaskList\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:46:31.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241002205411_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Migrations\\20241002205411_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241002205411_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Migrations\\20241002205411_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241002205411_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:54:11.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:42:10.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwE0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:50:26.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:50:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\ILoginRepository.cs",
+              "RelativeToolTip": "Repositories\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:49:55.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticateModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\AuthenticateModel.cs",
+              "RelativeDocumentMoniker": "Models\\AuthenticateModel.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\AuthenticateModel.cs",
+              "RelativeToolTip": "Models\\AuthenticateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:49:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginContex.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Data\\LoginContex.cs",
+              "RelativeDocumentMoniker": "Data\\LoginContex.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Data\\LoginContex.cs",
+              "RelativeToolTip": "Data\\LoginContex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:49:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T15:48:17.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswHkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:44:38.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -208,163 +307,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T16:45:47.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ILoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\ILoginRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ILoginRepository.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\ILoginRepository.cs",
-              "RelativeToolTip": "Repositories\\ILoginRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T14:37:14.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ILoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\ILoginRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ILoginRepository.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\ILoginRepository.cs",
-              "RelativeToolTip": "Repositories\\ILoginRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:28:15.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\TaskList\\appsettings.json",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList\\appsettings.json",
-              "RelativeToolTip": "..\\TaskList\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-03T01:56:42.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Repositories\\LoginRepository.cs",
-              "RelativeToolTip": "Repositories\\LoginRepository.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAkwG4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:29:25.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginContex.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Data\\LoginContex.cs",
-              "RelativeDocumentMoniker": "Data\\LoginContex.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Data\\LoginContex.cs",
-              "RelativeToolTip": "Data\\LoginContex.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T01:41:32.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\UserModel.cs",
-              "RelativeToolTip": "Models\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T01:41:32.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthenticateModel.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\AuthenticateModel.cs",
-              "RelativeDocumentMoniker": "Models\\AuthenticateModel.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\AuthenticateModel.cs",
-              "RelativeToolTip": "Models\\AuthenticateModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T01:41:32.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-03T01:41:32.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginContex.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Data\\LoginContex.cs",
-              "RelativeDocumentMoniker": "Data\\LoginContex.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Data\\LoginContex.cs",
-              "RelativeToolTip": "Data\\LoginContex.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:21:19.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\UserModel.cs",
-              "RelativeToolTip": "Models\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:29:58.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-19T17:29:05.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthenticateModel.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\AuthenticateModel.cs",
-              "RelativeDocumentMoniker": "Models\\AuthenticateModel.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\Models\\AuthenticateModel.cs",
-              "RelativeToolTip": "Models\\AuthenticateModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:32:42.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "TaskList(Final).http",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\TaskList(Final).http",
-              "RelativeDocumentMoniker": "TaskList(Final).http",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\TaskList_Final\\TaskList(Final).http",
-              "RelativeToolTip": "TaskList(Final).http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-19T17:43:58.999Z"
             }
           ]
         }

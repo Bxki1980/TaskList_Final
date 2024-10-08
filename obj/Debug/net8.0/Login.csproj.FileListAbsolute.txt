@@ -8,6 +8,7 @@ C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Login.pdb
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Humanizer.dll
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -48,6 +49,7 @@ C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\System.Me
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\TaskList_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
